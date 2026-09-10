@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-10T05:24:55.496882+00:00",
+  "status": "data_validated",
+  "execution_location": "kaggle",
+  "dataset_name": "mvtec-ad",
+  "dataset_version": "kaggle-ipythonx-local-content-hash",
+  "dataset_fingerprint": "061f3c21830a4d837464311b4dd06f2538174fd46dd7f1efd7ed431f3bcd73a1",
+  "split_fingerprint": "c3e88882c2e2df4283373ecaa9c7f4cc3ec7eb99e9201cf493f3e1f0902e6ff9",
+  "config_hash": "c53f510b4ff11cc52525e01c43ede567975ccd6f35aa4b01aa8252f0683c34e9",
+  "seed": 42,
+  "source_fingerprint": "dbdba4a5c82ea6ae9c468a5125192924cbb0cc2d209ea7c6c99d01b0148b01f1",
+  "environment": {
+    "python": "3.12.13",
+    "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+    "cpu": "x86_64",
+    "versions": {
+      "visual-ad-lab": "0.1.0",
+      "anomalib": null,
+      "torch": "2.10.0+cpu",
+      "torchvision": "0.25.0+cpu",
+      "lightning": null,
+      "numpy": "2.0.2",
+      "pillow": "11.3.0",
+      "pydantic": "2.12.3",
+      "pyyaml": "6.0.3",
+      "scipy": "1.16.3",
+      "scikit-learn": "1.6.1"
+    }
+  },
+  "sample_count": 5354,
+  "category_count": 15,
+  "counts": [
+    {
+      "category": "bottle",
+      "fit": 147,
+      "validation_normal": 31,
+      "calibration_normal": 31,
+      "selection": 32,
+      "final_test": 51
+    },
+    {
+      "category": "cable",
+      "fit": 158,
+      "validation_normal": 33,
+      "calibration_normal": 33,
+      "selection": 57,
+      "final_test": 93
+    },
+    {
+      "category": "capsule",
+      "fit": 155,
+      "validation_normal": 32,
+      "calibration_normal": 32,
+      "selection": 51,
+      "final_test": 81
+    },
+    {
+      "category": "carpet",
+      "fit": 196,
+      "validation_normal": 42,
+      "calibration_normal": 42,
+      "selection": 43,
+      "final_test": 74
+    },
+    {
+      "category": "grid",
+      "fit": 186,
+      "validation_normal": 39,
+      "calibration_normal": 39,
+      "selection": 28,
+      "final_test": 50
+    },
+    {
+      "category": "hazelnut",
+      "fit": 275,
+      "validation_normal": 58,
+      "calibration_normal": 58,
+      "selection": 42,
+      "final_test": 68
+    },
+    {
+      "category": "leather",
+      "fit": 173,
+      "validation_normal": 36,
+      "calibration_normal": 36,
+      "selection": 46,
+      "final_test": 78
+    },
+    {
+      "category": "metal_nut",
+      "fit": 154,
+      "validation_normal": 33,
+      "calibration_normal": 33,
+      "selection": 44,
+      "final_test": 71
+    },
+    {
+      "category": "pill",
+      "fit": 187,
+      "validation_normal": 40,
+      "calibration_normal": 40,
+      "selection": 63,
+      "final_test": 104
+    },
+    {
+      "category": "screw",
+      "fit": 224,
+      "validation_normal": 48,
+      "calibration_normal": 48,
+      "selection": 62,
+      "final_test": 98
+    },
+    {
+      "category": "tile",
+      "fit": 162,
+      "validation_normal": 34,
+      "calibration_normal": 34,
+      "selection": 45,
+      "final_test": 72
+    },
+    {
+      "category": "toothbrush",
+      "fit": 42,
+      "validation_normal": 9,
+      "calibration_normal": 9,
+      "selection": 16,
+      "final_test": 26
+    },
+    {
+      "category": "transistor",
+      "fit": 151,
+      "validation_normal": 31,
+      "calibration_normal": 31,
+      "selection": 40,
+      "final_test": 60
+    },
+    {
+      "category": "wood",
+      "fit": 173,
+      "validation_normal": 37,
+      "calibration_normal": 37,
+      "selection": 30,
+      "final_test": 49
+    },
+    {
+      "category": "zipper",
+      "fit": 168,
+      "validation_normal": 36,
+      "calibration_normal": 36,
+      "selection": 56,
+      "final_test": 95
+    }
+  ],
+  "warnings": [],
+  "models_trained": false
+}

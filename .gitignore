@@ -1,4 +1,15 @@
 # Byte-compiled / optimized / DLL files
+outputs/
+artifacts/
+data/raw/
+frontend/node_modules/
+frontend/dist/
+frontend/playwright-report/
+frontend/test-results/
+.venv/
+*.ckpt
+*.pt
+*.npz
 __pycache__/
 *.py[codz]
 *$py.class

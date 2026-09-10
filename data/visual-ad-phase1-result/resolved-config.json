@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "data_root": "/kaggle/input/datasets/ipythonx/mvtec-ad",
+  "output_root": "/kaggle/working/visual-ad",
+  "dataset_name": "mvtec-ad",
+  "dataset_version": "kaggle-ipythonx-local-content-hash",
+  "seed": 42,
+  "require_all_categories": true,
+  "image_size": 256,
+  "resolved_data_root": "/kaggle/input/datasets/ipythonx/mvtec-ad"
+}

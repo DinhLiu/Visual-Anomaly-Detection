@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "archive_type": "visual-ad-phase1-results",
+  "dataset_fingerprint": "061f3c21830a4d837464311b4dd06f2538174fd46dd7f1efd7ed431f3bcd73a1",
+  "split_fingerprint": "c3e88882c2e2df4283373ecaa9c7f4cc3ec7eb99e9201cf493f3e1f0902e6ff9",
+  "files": {
+    "resolved-config.json": "a1a1fcbe9e717bf6d230aba97457f42d66727b11a85269c8dab3fd1815d2b4fd",
+    "inventory.json": "4597a313b777780a09b2926d8a8db8d22e77681cb6ac053cd391e87ff8aa1d76",
+    "split-manifest.json": "b8ebc503ada03571522e712bbe7fadf262dc0aebdb1e06b1daa71adfb1097f37",
+    "last-status.json": "e5a7ba96d2d138d08e7bf0d1698ba3496334ba0ba9570d7b46d1678d5ab07db2",
+    "data-report.md": "7a75d4f322dc2a21c8cd4d1d28e310e68a8673a11fc02baf26d6ca7fc499ba7e",
+    "data-report.json": "fe51bf64780ac288102775009ce53a8877017bdf2b13353c9bc5bb05ac486781",
+    "split-counts.csv": "1ca8d32b325f1fccdef163e849c31aea82d27270786af3fb4c9928a096508425",
+    "samples.csv": "b284793b033017eb19542819e9426c3eb854867eaf566223a60e7d99efd036ea",
+    "data-preview.png": "733fe3e6f49506fbd547fbeba5f170003dc5734cf7894b6b420288b0db829939"
+  }
+}

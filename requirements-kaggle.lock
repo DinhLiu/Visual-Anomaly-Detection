@@ -1,0 +1,32 @@
+# Kaggle-compatible dependencies
+# Target environment: Python 3.12
+#
+# Keep core scientific packages compatible with Kaggle's preinstalled
+# ecosystem instead of upgrading them to the newest PyPI releases.
+
+annotated-types==0.8.0
+    # via pydantic
+
+numpy==2.0.2
+    # via visual-ad-lab
+
+pillow==11.3.0
+    # via visual-ad-lab
+
+pydantic==2.12.3
+    # via visual-ad-lab
+
+pydantic-core==2.41.4
+    # via pydantic
+
+pyyaml==6.0.3
+    # via visual-ad-lab
+
+typing-extensions==4.16.0
+    # via
+    #   pydantic
+    #   pydantic-core
+    #   typing-inspection
+
+typing-inspection==0.4.4
+    # via pydantic

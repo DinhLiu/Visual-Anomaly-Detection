@@ -1,0 +1,16 @@
+category,fit,validation_normal,calibration_normal,selection,final_test
+bottle,147,31,31,32,51
+cable,158,33,33,57,93
+capsule,155,32,32,51,81
+carpet,196,42,42,43,74
+grid,186,39,39,28,50
+hazelnut,275,58,58,42,68
+leather,173,36,36,46,78
+metal_nut,154,33,33,44,71
+pill,187,40,40,63,104
+screw,224,48,48,62,98
+tile,162,34,34,45,72
+toothbrush,42,9,9,16,26
+transistor,151,31,31,40,60
+wood,173,37,37,30,49
+zipper,168,36,36,56,95
